@@ -1,3 +1,8 @@
+/*
+    CIT 281 Project 3
+    Name: Garrett Arnold
+*/
+
 const fs = require('fs');
 const coinCount = require('./p3-module'); 
 const fastify = require("fastify")();
