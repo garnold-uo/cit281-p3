@@ -1,3 +1,8 @@
+/*
+    CIT 281 Project 3
+    Name: Garrett Arnold
+*/
+
 function validDenomination(coin) {
     // Test if coin = 1, 5, 10, 25, 50, 100
     return [1, 5, 10, 25, 50, 100].indexOf(coin) !== -1;
